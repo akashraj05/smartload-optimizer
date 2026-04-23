@@ -49,7 +49,7 @@ smartload-optimizer/
 ### ✅ Option 1: Run with Docker (Recommended)
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/akashraj05/smartload-optimizer
 cd smartload-optimizer
 
 docker compose up --build
